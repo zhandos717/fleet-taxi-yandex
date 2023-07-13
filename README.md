@@ -1,6 +1,6 @@
 ### Такси для партнеров сервиса
 
-(API Яндекс)[https://fleet.taxi.yandex.ru/docs/api/concepts/index.html]
+[API Яндекс](https://fleet.taxi.yandex.ru/docs/api/concepts/index.html)
 
 В документе описан API Яндекс.Такси для партнеров сервиса (далее — API Такси, API).
 
